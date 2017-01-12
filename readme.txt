@@ -7,3 +7,5 @@ in this readme file.
 The third time to add something in this file.
 
 At 2017/3/1 20:43,Noodle created a new branch of git-repository.
+
+Create a new branch:feature1.It's AND simple.
