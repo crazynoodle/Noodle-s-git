@@ -8,4 +8,8 @@ The third time to add something in this file.
 
 At 2017/3/1 20:43,Noodle created a new branch of git-repository.
 
-Master add some stuff too!!
+<<<<<<< HEAD
+Create a new branch:feature1.It's AND simple.
+=======
+Create a new branch:feature1.It's AND simple.
+>>>>>>> feature1
