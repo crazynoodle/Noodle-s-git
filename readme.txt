@@ -13,3 +13,5 @@ Create a new branch:feature1.It's AND simple.
 =======
 Create a new branch:feature1.It's AND simple.
 >>>>>>> feature1
+
+At 22.45 2017/3/1, modified.
