@@ -16,4 +16,4 @@ Create a new branch:feature1.It's AND simple.
 
 At 22.45 2017/3/1, modified.
 
-Modified by branch-sec.
+Modified by Branch-sec.
